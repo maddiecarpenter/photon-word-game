@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{21C720AA-2748-E26E-E8EC-86F55D689A84}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Ranking.cs">
+    <Files>
+      <File FileName="Assets/Script/Ranking.cs" Line="66" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
